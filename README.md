@@ -1,4 +1,4 @@
-# Sgin
+# Sign
   Record the daily plan and sgin in
 
 # Rules
